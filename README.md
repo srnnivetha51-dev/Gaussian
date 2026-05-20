@@ -9,11 +9,11 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 
 ## Algorithm
 
-Read the number of unknowns.
-Form the augmented matrix using the coefficients and constants.
-Apply Gaussian Elimination to convert the matrix into upper triangular form.
-Use back substitution to find the values of the unknowns.
-Display the solution.
+1.Read the number of unknowns.
+2.Form the augmented matrix using the coefficients and constants.
+3.Apply Gaussian Elimination to convert the matrix into upper triangular form.
+4.Use back substitution to find the values of the unknowns.
+5.Display the solution.
 
 ## Program:
 ```
